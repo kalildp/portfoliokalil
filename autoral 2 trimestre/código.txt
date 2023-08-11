@@ -1,0 +1,5 @@
+// Pede ao usuário para digitar o nome
+var nome = prompt("Digite o seu nome:");
+
+// Exibe uma saudação personalizada
+console.log("Olá, " + nome + "! Bem-vindo ao JavaScript!");
